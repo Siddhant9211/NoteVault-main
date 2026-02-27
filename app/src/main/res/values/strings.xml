@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">NoteVault</string>
+
+    <!-- Navigation drawer -->
+    <string name="profile_photo">Profile photo</string>
+    <string name="nav_recycle_bin">Recycle Bin</string>
+    <string name="nav_hidden">Hidden Files &amp; Folders</string>
+    <string name="nav_logout">Logout</string>
+
+    <!-- Login Screen -->
+    <string name="login_welcome">Welcome Back!</string>
+    <string name="login_subtitle">Sign in to access your notes</string>
+    <string name="btn_login">Login</string>
+    <string name="link_register">Don\'t have an account? Register</string>
+
+    <!-- Register Screen -->
+    <string name="register_title">Create Account</string>
+    <string name="register_subtitle">Join NoteVault today</string>
+    <string name="btn_register">Register</string>
+    <string name="link_login">Already have an account? Login</string>
+
+    <!-- Common -->
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+
+    <!-- Folders Screen -->
+    <string name="folders_title">My Folders</string>
+    <string name="folders_empty">No folders yet. Tap + to create one.</string>
+    <string name="folder_add">Add folder</string>
+    <string name="folder_icon">Folder icon</string>
+    <string name="hint_folder_name">Folder name</string>
+    <string name="label_choose_color">Choose a color</string>
+
+    <!-- Notes Screen -->
+    <string name="main_empty">No notes yet. Tap + to create one.</string>
+    <string name="main_add_note">Add note</string>
+    <string name="main_logout">Logout</string>
+
+    <!-- Add/Edit Note Screen -->
+    <string name="add_edit_title">Note</string>
+    <string name="add_edit_hint_title">Title</string>
+    <string name="add_edit_hint_content">Write your note here...</string>
+    <string name="add_edit_save">Save</string>
+    <string name="label_note_color">Note Color</string>
+    <string name="btn_pick_color">Change Color</string>
+
+    <!-- Folder overflow menu -->
+    <string name="folder_rename">Rename Folder</string>
+    <string name="folder_change_color">Change Color</string>
+    <string name="folder_delete">Delete</string>
+    <string name="folder_hide">Hide Folder</string>
+    <string name="folder_lock">Lock Folder</string>
+    <string name="folder_unlock">Unlock Folder</string>
+    <string name="create_folder">Create Folder</string>
+
+    <!-- Recycle bin -->
+    <string name="recycle_bin_title">Recycle Bin</string>
+    <string name="recycle_bin_empty">Nothing in Recycle Bin</string>
+    <string name="recycle_restore">Restore</string>
+    <string name="recycle_delete_permanent">Delete permanently</string>
+    <string name="days_left">%d days left</string>
+
+    <!-- Hidden -->
+    <string name="hidden_title">Hidden Files &amp; Folders</string>
+    <string name="hidden_empty">No hidden items</string>
+    <string name="hidden_unhide">Unhide</string>
+
+    <!-- Lock -->
+    <string name="lock_enter_password">Enter password</string>
+    <string name="lock_set_password">Set lock password</string>
+    <string name="lock_unlock">Unlock</string>
+    <string name="lock_incorrect">Incorrect password</string>
+</resources>

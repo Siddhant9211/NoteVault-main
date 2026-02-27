@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- NoteVault theme: modern blue/purple gradient (logo-inspired) -->
+    <color name="primary_blue">#FF4A90D9</color>
+    <color name="primary_purple">#FF7B68C7</color>
+    <color name="primary_dark">#FF3D7AB5</color>
+    <color name="primary_light">#FF6BA3E8</color>
+
+    <!-- Background -->
+    <color name="background_light">#FFF5F7FA</color>
+    <color name="background_white">#FFFFFFFF</color>
+    <color name="surface_light">#FFFFFFFF</color>
+    <color name="card_light">#FFFFFFFF</color>
+
+    <!-- Text -->
+    <color name="text_primary_light">#FF1A1A2E</color>
+    <color name="text_secondary_light">#FF6B7280</color>
+    <color name="grey_600">#FF6B7280</color>
+    <color name="grey_800">#FF374151</color>
+
+    <!-- Legacy (mapped for compatibility) -->
+    <color name="purple_700">@color/primary_purple</color>
+    <color name="purple_500">@color/primary_light</color>
+    <color name="teal_700">#FF0D9488</color>
+    <color name="teal_500">#FF14B8A6</color>
+
+    <!-- Folder/Note palette -->
+    <color name="color_red">#FFFF6B6B</color>
+    <color name="color_turquoise">#FF4ECDC4</color>
+    <color name="color_blue">#FF45B7D1</color>
+    <color name="color_salmon">#FFFFA07A</color>
+    <color name="color_mint">#FF98D8C8</color>
+    <color name="color_yellow">#FFF7DC6F</color>
+    <color name="color_purple">#FFBB8FCE</color>
+    <color name="color_sky">#FF85C1E2</color>
+    <color name="color_peach">#FFF8B88B</color>
+    <color name="color_green">#FF96CEB4</color>
+</resources>

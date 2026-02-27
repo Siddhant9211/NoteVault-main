@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "296977752766",
+    "project_id": "notevault-ac812",
+    "storage_bucket": "notevault-ac812.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296977752766:android:94eec14cb4291a5dad34ef",
+        "android_client_info": {
+          "package_name": "com.example.notevault"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296977752766-n1hj0bno9q22bgoc99f1bh2hd1dpnejm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notevault",
+            "certificate_hash": "d705fe3b5ea16bbc0edbe30f1fa3ab18759edc20"
+          }
+        },
+        {
+          "client_id": "296977752766-bfvi2leomghr9ktbobp0rhbmsvbmach2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfxdLwqaF-GKc_JTdvSE3qkPR-q5B_ibE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296977752766-bfvi2leomghr9ktbobp0rhbmsvbmach2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

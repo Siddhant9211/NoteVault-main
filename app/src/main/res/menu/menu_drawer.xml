@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_recycle_bin"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="@string/nav_recycle_bin" />
+    <item
+        android:id="@+id/nav_hidden"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="@string/nav_hidden" />
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@android:drawable/ic_lock_power_off"
+        android:title="@string/nav_logout" />
+</menu>
